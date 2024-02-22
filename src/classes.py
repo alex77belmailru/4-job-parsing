@@ -5,7 +5,7 @@ from abc import ABC, abstractmethod
 from requests import get
 from pydantic import BaseModel, ValidationError
 
-EXCHANGE_RATE = 80  # курс перевода зарплаты в рубли
+EXCHANGE_RATE = 100  # курс перевода зарплаты в рубли
 
 
 class Vacancy:
