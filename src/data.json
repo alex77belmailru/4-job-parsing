@@ -1,0 +1,2330 @@
+[
+  {
+    "name": "Junior Python Developer",
+    "url": "https://hh.ru/vacancy/93361633",
+    "requirement": "Уверенное владение Python. Желательно: Умение работать с Docker. Опыт работы с Django-framework. Понимание CI/CD принципов. Опыт работы с...",
+    "salary_from": 70000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Backend Developer (Django)",
+    "url": "https://hh.ru/vacancy/93633836",
+    "requirement": "Технологический стек: Python, Django, PostgreSQL, REST API, Docker, Git. Ответственный и творческий подход к решению задач. Приветствуется опыт трекинга задач...",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/92363159",
+    "requirement": "Отличные коммуникативные навыки. Любовь к коду. Быть активным и внедрять эффективные решения.",
+    "salary_from": 50000,
+    "salary_to": 50000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Стажер-программист Python",
+    "url": "https://hh.ru/vacancy/93576457",
+    "requirement": "Python (Django). PostgreSQL. JavaScript. HMTL/XHTML/CSS. Git. ОС Linux.",
+    "salary_from": 16000,
+    "salary_to": 18000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Junior+\\middle python backend-разработчик",
+    "url": "https://hh.ru/vacancy/93564630",
+    "requirement": "React. Технические навыки. Самостоятельность. Целеустремлённость. Смелость. Будет плюсом: Gitlab pipelines.",
+    "salary_from": 100000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python (Django) Разработчик",
+    "url": "https://hh.ru/vacancy/93519253",
+    "requirement": "Понимать продукт, вникать в бизнес-процессы. Опыт Backend разработки от 2-х лет. Высшее техническое образование. Знание SQL (в частности...",
+    "salary_from": 100000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Backend Developer",
+    "url": "https://hh.ru/vacancy/92292859",
+    "requirement": "Опыт написания кода на Django/Fast API от 2х лет. Опыт работы с микросервисами. Умение писать юнит-тесты (pytest...",
+    "salary_from": 120000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (удаленно)",
+    "url": "https://hh.ru/vacancy/93558594",
+    "requirement": "ВО техническое. Дополнительное образование по специфике приветствуется. Наличие побед в олимпиадах, хакатонах и участия в них будет плюсом. Уровень проф. ",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/93153655",
+    "requirement": "Умение читать код и быстро в нем разбираться. Уверенное знание Python, опыт в Django, FastAPI. Умение писать оптимизированные запросы на...",
+    "salary_from": 140000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/92751436",
+    "requirement": "Знание Python, Git, Google Sheets, Excel. Умение работать в команде. Умение оценивать задачи и укладываться в срок. Умение разбираться в...",
+    "salary_from": 30000,
+    "salary_to": 60000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Junior Python-разработчик",
+    "url": "https://hh.ru/vacancy/93106678",
+    "requirement": "Уверенное владение языком программирования Python. Знание одного из следующих фреймворков: Django, DRF или FastAPI. Опыт работы с системой контроля версий...",
+    "salary_from": 40000,
+    "salary_to": 60000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93374941",
+    "requirement": "Знание: PostgreSQL. SQLAlchemy. Nginx. Jenkins. MinIO S3. Loki. Grafana. Принципов архитектуры клиент-серверных приложений. Умение: Применять паттерны проектирования. ",
+    "salary_from": 54000,
+    "salary_to": 162000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python разработчик, part-time",
+    "url": "https://hh.ru/vacancy/93625200",
+    "requirement": "Навыки, заложить грамотную основу для будущего проекта вместе с техлидом. Наш идеальный коллега: Имеет опыт коммерческой разработки от 1,5...",
+    "salary_from": 120000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/93301725",
+    "requirement": "Пишите про свой опыт в отклике на вакансию.",
+    "salary_from": 500000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Junior / Junior+ Fullstack Developer (Python, TypeScript)",
+    "url": "https://hh.ru/vacancy/93442535",
+    "requirement": "Уверенные знания Python 3.10, JS(ES6), TypeScript. Опыт работы с Django / DRF. Опыт работы с React/NextJS, и...",
+    "salary_from": 50000,
+    "salary_to": 120000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Junior Python Backend Developer",
+    "url": "https://hh.ru/vacancy/92471522",
+    "requirement": "Уверенное знание python. Уверенное знание django и DRF. Опыт работы с git. Опыт работы с PostgreSQL и умение писать SQL...",
+    "salary_from": 0,
+    "salary_to": 80000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/93424647",
+    "requirement": "Знание библиотек langchain, OpenAI. Понимание RAG. Умение работать с инструментами контроля версий (GIT). Умение работать с базами данных (желательно PostgreSQL). ",
+    "salary_from": 88218,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/93159217",
+    "requirement": "Жeлание работaть и рaзвивaтьcя. - Умение pаботaть в коллeктиве. - Oпыт рабoты не требуетcя, глaвное - это ваше жeлание. - Понимание основ разработки. - ",
+    "salary_from": 60000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/93424648",
+    "requirement": "Знание библиотек langchain, OpenAI. Понимание RAG. Умение работать с инструментами контроля версий (GIT). Умение работать с базами данных (желательно PostgreSQL). ",
+    "salary_from": 88218,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle(-) Python разработчик",
+    "url": "https://hh.ru/vacancy/92577979",
+    "requirement": "Опыт программирования на Python — от 2 лет. Опыт «коммерческой» работы — от 1 года. Умение работать с Git. Знания SQL вообще...",
+    "salary_from": 120000,
+    "salary_to": 160000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend разработчик (Python)",
+    "url": "https://hh.ru/vacancy/93239590",
+    "requirement": "Python. Django. Json-RPC 2.0. PostgreSQL. Redis, Kafka. Kubernetes. Уверенные знания Python (опыт работы от 2х лет). ",
+    "salary_from": 40000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (Junior)",
+    "url": "https://hh.ru/vacancy/92892555",
+    "requirement": "1. Собственная система сквозной аналитики. 1. Хорошее знание Python 3, Pandas, SQL, Git, Docker, Docker-compose, AirFlow, Flask, FastAPI, SQLAlchemy...",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Стажер-разработчик Python",
+    "url": "https://hh.ru/vacancy/93014013",
+    "requirement": "Жeлание работaть и рaзвивaтьcя. - Умение pаботaть в коллeктиве. - Oпыт рабoты не требуетcя, глaвное - это ваше жeлание. - Понимание основ разработки. - ",
+    "salary_from": 60000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python backend",
+    "url": "https://hh.ru/vacancy/92519276",
+    "requirement": "Опыт разработки сервисов (Flask, Django, SQLAlchemy и др.). Опыт работы с различными хранилищами данных (MySQL, S3, Hadoop, NoSQL(ClickHouse)). ",
+    "salary_from": 100000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93459737",
+    "requirement": "Опыт коммерческой разработки на Python от 2-х лет. Опыт работы с FastAPI/Flask/Django. Опыт работы с RESTful API. ",
+    "salary_from": 180000,
+    "salary_to": 210000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Веб-разработчик (PHP, Python)",
+    "url": "https://hh.ru/vacancy/93403848",
+    "requirement": "Опыт разработки нетривиальной логики.",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Junior Backend Developer (Python и SQL)",
+    "url": "https://hh.ru/vacancy/92551827",
+    "requirement": "Высшее образование (можно неоконченное/неполное) технического ВУЗа последнего или предпоследнего курса. Логичный и структурированный подход к решению задач, способность аргументированно...",
+    "salary_from": 50000,
+    "salary_to": 70000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик-стажер Python (web-parsing+backend)",
+    "url": "https://hh.ru/vacancy/92532321",
+    "requirement": "1. Знание языка программирования Python. 2. Опыт работы с фреймворком Scrapy или другими инструментами для парсинга данных. 3. ",
+    "salary_from": 0,
+    "salary_to": 30000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/92915494",
+    "requirement": "Быть проактивным, самостоятельным, уметь достигать результата и работать в команде. - Уверенное владение python3. - Уверенное владение хотя бы одним из...",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/92454497",
+    "requirement": "Знание Django и умение применять базовые алгоритмы. Опыт работы с базами данных (MySQL, PostgreSQL). Будет хорошо, если вы использовали NoSQL. ",
+    "salary_from": 70000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Младший разработчик Python",
+    "url": "https://hh.ru/vacancy/92706286",
+    "requirement": "Знание языка Python. Знание SQL запросов. Умение работать с следующими библиотеками Python: requests, pyqt6, Flask, FastApi, sqlite3, pyinstaller...",
+    "salary_from": 80000,
+    "salary_to": 130000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (Django)",
+    "url": "https://hh.ru/vacancy/93230549",
+    "requirement": "От 1,5+ года коммерческого опыта в стеке python, django, postgresql. Будет плюсом опыт с асинхронщиной (aiohttp\\FastAPI). ",
+    "salary_from": 0,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend-разработчик Python",
+    "url": "https://hh.ru/vacancy/93338891",
+    "requirement": "Знание и умение применять классические алгоритмы и структуры данных. Отличное знание Python. Опыт построения API с FastApi или Flask. ",
+    "salary_from": 0,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/92151346",
+    "requirement": "Имеешь глубокие знания Python. Знаком с Django и Django ORM. Обладаешь начальными знаниями реляционных и/или NoSQL баз данных (PostgreSQL...",
+    "salary_from": 45000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/93517067",
+    "requirement": "HTML/CSS/JS (бога фронтенда не ищем, но хорошее понимание и возможность вносить простые правки должно быть). Что еще хотим...",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/92617402",
+    "requirement": "Backend: Python 3.7, pymongo, flask, pycades (CryptoPro), aiohttp. Database: MongoDB. Infrastructure: Ansible. Знание Python, опыт работы с реальными задачами. ",
+    "salary_from": 80000,
+    "salary_to": 120000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик-стажер Python (ML+backend)",
+    "url": "https://hh.ru/vacancy/92345293",
+    "requirement": "Умение работать в Linux.",
+    "salary_from": 0,
+    "salary_to": 30000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Jun+/Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/93090286",
+    "requirement": "Коммерческий опыт разработки на Python от 1,5 лет. Коммерческий опыт использования одного из ассинхронных веб фреймворков. Опыт написания высоконагруженных...",
+    "salary_from": 90000,
+    "salary_to": 160000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python (ИИ)",
+    "url": "https://hh.ru/vacancy/93295199",
+    "requirement": "",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python(Django)",
+    "url": "https://hh.ru/vacancy/92910153",
+    "requirement": "Уверенное владение Python 3.8+. Желателен опыт с celery, django-rest-framework. Знание базовых паттернов проектирования, алгоритмов, структур данных. ",
+    "salary_from": 0,
+    "salary_to": 120000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Стажер Back-end разработчика (php, python, c#)",
+    "url": "https://hh.ru/vacancy/89753481",
+    "requirement": "Знание одного из языков: php, python, java, c#. Наличие учебного опыта серверной разработки. Желательно профильное высшее образование по разработке (если...",
+    "salary_from": 15000,
+    "salary_to": 30000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/90915415",
+    "requirement": "От Вас: Опыт разработки на Python от 2 лет. Опыт работы с веб-фреймворками (Django, Flask, aiohttp), создания API (REST...",
+    "salary_from": 60000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python Backend Developer (Flask, FastAPI)",
+    "url": "https://hh.ru/vacancy/92336266",
+    "requirement": "Опыт коммерческой разработки от 3 лет. Уверенное знание Python и фреймворков Flask и FastAPI. Опыт работы с реляционными и нереляционными...",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle python backend developer",
+    "url": "https://hh.ru/vacancy/92823925",
+    "requirement": "Python (Django+DRF, celery, FastAPI), Graphql (Graphene), Github, Docker, Docker-compose, Ansible-playbook, MariaDB, mysql, postgresql. Наши ожидания: - Опыт коммерческой разработки...",
+    "salary_from": 140000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/80736556",
+    "requirement": "Опыт проектирования, поддержки и разработки серверных компонентов на Python. Знание Microsoft SQL server и PostgreSql. Опыт работы с Git. ",
+    "salary_from": 30000,
+    "salary_to": 80000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/93447101",
+    "requirement": "Опыт разработки на Python от 3-х лет, опыт с Django обязателен на последнем месте. Понимание веб-стека, принципов REST...",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Developer",
+    "url": "https://hh.ru/vacancy/93449619",
+    "requirement": "Опыт работы на аналогичной позиции от 5 лет (приоритет отдаём откликам кандидатов с техническим образованием по специальности Информационные технологии). ",
+    "salary_from": 300000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Бэкенд-разработчик Python",
+    "url": "https://hh.ru/vacancy/92708287",
+    "requirement": "1) 1+ год опыта работы в качестве бэкенд-разработчика (Python). 2) Опыт в разработке чат-ботов на aiogram(несколько...",
+    "salary_from": 60000,
+    "salary_to": 110000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Prompt engineer (middle) + python разработчик",
+    "url": "https://hh.ru/vacancy/93565403",
+    "requirement": "Минимальный опыт работы с векторными базами(индексация, извлечение инфы по индексированным документам) на грани обязательного. Навыки Python необходимы для оборачивания...",
+    "salary_from": 120000,
+    "salary_to": 240000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (backend)",
+    "url": "https://hh.ru/vacancy/93330296",
+    "requirement": "Профильное образование (инфотех или физмат, допустимо неоконченное или в процессе получения). Уверенное знание Python 3.х от 3x лет...",
+    "salary_from": 270000,
+    "salary_to": 270000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/92089196",
+    "requirement": "Опыт работы с Python и его веб-фреймворками (например, Django, Flask). - Знание HTML, CSS, JavaScript - Хорошее понимание принципов разработки веб...",
+    "salary_from": 40000,
+    "salary_to": 80000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/93361769",
+    "requirement": "Уверенное владение Python. Опыт работы с Django-framework. Понимание CI/CD принципов. Опыт использования linux, git. Наличие реального коммерческого опыта...",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python ML-разработчик (искусственный интеллект)",
+    "url": "https://hh.ru/vacancy/93369219",
+    "requirement": "Высшее (техническое или математическое образование). Уверенный пользователь ПК (Miсrosoft Office). Excel, Word, Power Point на продвинутом уровне. Опыт работы с...",
+    "salary_from": 180000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Go/Python-разработчик в команду DataMining (middle)",
+    "url": "https://hh.ru/vacancy/93589895",
+    "requirement": "Умение программировать на языке Go, при отсутствии этого навыка рассматриваются кандидаты, умеющие программировать на языке Python. Опыт парсинга сайтов различной...",
+    "salary_from": 80000,
+    "salary_to": 120000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Backend Developer (Middle, Remote)",
+    "url": "https://hh.ru/vacancy/90544605",
+    "requirement": "Хорошее знание Python 3.8, Django>2.0, DRF. Опыт работы с реляционными базами данных (MySQL). Умение писать юнит-тесты. ",
+    "salary_from": 0,
+    "salary_to": 195000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend Разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90777119",
+    "requirement": "Опыт коммерческой разработки на Python от 3 лет. Опыт проектирования, разработки и внедрения серверных приложений. Понимание устройства основных сетевых протоколов...",
+    "salary_from": 220000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python. Middle",
+    "url": "https://hh.ru/vacancy/92844469",
+    "requirement": "Опыт коммерческой разработки более 2-х лет. Отличное знание Python 3.10+. Навыки написания тестов (unittest, pytest). ",
+    "salary_from": 110000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Backend разработчик",
+    "url": "https://hh.ru/vacancy/92956334",
+    "requirement": "Опыт работы с Python и фреймворками Django и Django Rest. Понимание принципов разработки RESTful API. Опыт работы с Google Cloud...",
+    "salary_from": 90000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python backend разработчик",
+    "url": "https://hh.ru/vacancy/92974997",
+    "requirement": "Опыт коммерческой разработки на Python от 1 года. Обязательно опыт работы с Django. Умение декомпозировать и оценивать задачи. ",
+    "salary_from": 90000,
+    "salary_to": 130000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Fullstack Python программист",
+    "url": "https://hh.ru/vacancy/93348662",
+    "requirement": "Опыт работы с Python и Django не менее 2 лет. Знание aiohttp для асинхронных запросов. Опыт работы с фронтенд-технологиями...",
+    "salary_from": 120000,
+    "salary_to": 140000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-программист (Python backend developer)",
+    "url": "https://hh.ru/vacancy/92609186",
+    "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python, fastapi, mongodb)",
+    "url": "https://hh.ru/vacancy/93279237",
+    "requirement": "Целеустремленность. Открытость. Энергичность. Опыт работы с FastAPI для создания высокопроизводительных REST API. Знание MongoDB для оптимальной работы с БД. ",
+    "salary_from": 120000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/93091191",
+    "requirement": "Python от 3х лет. FastAPI, Flask. PostgreSQL. SQLAlchemy, Alembic.",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend Python/Django разработчик",
+    "url": "https://hh.ru/vacancy/93160901",
+    "requirement": "Минимум 3 года опыта разработки на Python. Имеется опыт разработки и сопровождения продуктов на платформе Linux с применением Python, Redis...",
+    "salary_from": 90000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/92336353",
+    "requirement": "Понимание принципов ООП. Хорошее понимание протокола HTTP и REST. Python 3, Django, Git, SQL. Опыт разворачивания решения на сервере (nginx...",
+    "salary_from": 200000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/90992863",
+    "requirement": "Знание Python3, Flask, SQLAlchemy. Знание MySQL и умение составлять запросы. Базовые знания HTML, CSS, JS, jQuery. Знание Git (GitLab...",
+    "salary_from": 50000,
+    "salary_to": 75000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Fullstack Web Developer (Python, Django, Nuxt.js, Vue.js)",
+    "url": "https://hh.ru/vacancy/92902681",
+    "requirement": "",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python Middle +",
+    "url": "https://hh.ru/vacancy/93101495",
+    "requirement": "Опыт коммерческой разработки от 3х лет. - Знание языка Python, желателен опыт работы с Django, DRF, asyncio (и любого из...",
+    "salary_from": 200000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/93239877",
+    "requirement": "Высшее техническое образование. Опыт программирования на python от 3-х лет. Отличное знание Django и Django ORM. Знание Django, ORM...",
+    "salary_from": 120000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/93529868",
+    "requirement": "Опыт коммерческой разработки от 1 года. Уверенное знание и опыт работы с Python/Flask. No-SQL (MongoDB). Опыт с системами...",
+    "salary_from": 120000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/92556424",
+    "requirement": "Навык работы с SQL/NoSQL базами данных (PostgreSQL, MongoDB), а так же написания raw запросов для них. Понимание того, как...",
+    "salary_from": 180000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/90789260",
+    "requirement": "Python (Python 3.7 и выше): SqlAlchemy, Django, Flask, FastAPI. - REST, Swagger. Уверенное владение Python3 от 2 лет, знание...",
+    "salary_from": 0,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик python",
+    "url": "https://hh.ru/vacancy/93562093",
+    "requirement": "",
+    "salary_from": 120000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/93621942",
+    "requirement": "Хорошее знание Python, опыт программирования от 3х лет. Аналитическое критическое мышление. Математический бэкграунд, знакомство с алгоритмами (алгоритмы построения расписаний...",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/92893067",
+    "requirement": "Flask. Базовое понимание js. Опыт работы с маркетплейсами, Gaming, Computer Vision - будет отличным преимуществом. Самостоятельность в принятии решений и хорошая...",
+    "salary_from": 96000,
+    "salary_to": 144000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (middle+)",
+    "url": "https://hh.ru/vacancy/93121820",
+    "requirement": "Уверенные знания Python 3.8+ (опыт коммерческой разработки от 2 лет). Опыт работы с Flask более года (или другим...",
+    "salary_from": 180000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (Специалист по нейросетям)",
+    "url": "https://hh.ru/vacancy/93564591",
+    "requirement": "наличие опыта работы с нейросетями для генерации изображений (StableDiffusion, StyleGAN, CLIP и других). - знание языка и библиотек Python. - ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/93200768",
+    "requirement": "Уверенное владение Python 3.10+, в частности: Фреймворк: FastAPI. ORM: SQLAlchemy. Плюсом будет опыт работы с Celery. ",
+    "salary_from": 120000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (КЭДО)",
+    "url": "https://hh.ru/vacancy/93586246",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с желанием мигрировать на Python. ",
+    "salary_from": 150000,
+    "salary_to": 220000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/92111342",
+    "requirement": "JavaScript, jQuery. HTML, Bootstrap, CSS. MSSQL, MySQL/MariaDB, PostgreSQL, SQLite, MongoDB. Redis, Elasticsearch, GitLab CI/CD. Linux Server, Windows Server...",
+    "salary_from": 0,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Backend Developer (Middle)",
+    "url": "https://hh.ru/vacancy/93277102",
+    "requirement": "Высшее техническое образование. Знание и опыт работы с Python. Опыт работы с RabbitMQ. Опыт работы с Docker. Уверенное владение Git. ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (Инженер-программист)(01050-1)",
+    "url": "https://hh.ru/vacancy/91683615",
+    "requirement": "Высшее образование специалитет / магистратура (готовы рассмотреть в том числе соискателя-студента магистратуры, специалитета). Знание системы и основных инструментов Git. ",
+    "salary_from": 90000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python / Django Developer",
+    "url": "https://hh.ru/vacancy/92929978",
+    "requirement": "Знать ООП и структур данных Python, асинхронность, gil, мультипроцессинг / мультитрединг. Уверенно работать с Django, Django REST, FastApi. Знать что такое...",
+    "salary_from": 0,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend программист (Python/Django) - Middle",
+    "url": "https://hh.ru/vacancy/93072414",
+    "requirement": "Опыт работы с Python 3.6+ (фреймворк Django) от 2-х лет. Опыт работы с DRF (Django REST framework...",
+    "salary_from": 80000,
+    "salary_to": 100000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Full Stack разработчик (Python)",
+    "url": "https://hh.ru/vacancy/92002509",
+    "requirement": "Опыт разработки на Python не менее 1-3 лет. Опыт в Full Stack разработке. Опыт работы Django, Django REST Framework...",
+    "salary_from": 70000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист-разработчик Python",
+    "url": "https://hh.ru/vacancy/92402064",
+    "requirement": "Опыт промышленного парсинга. Опыт программирования на Python. Опыт работы с Django и DRF. Опыт работы с базами данных, желательно PostgreSQL. ",
+    "salary_from": 80000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (+ Go)",
+    "url": "https://hh.ru/vacancy/93297015",
+    "requirement": "Опыт коммерческой разработки на Python от 1 года (+ Golang будет плюсом). Знание алгоритмов и структур данных. Плюсом будет знакомство...",
+    "salary_from": 0,
+    "salary_to": 500000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend-разработчик / Python developer",
+    "url": "https://hh.ru/vacancy/93345726",
+    "requirement": "Знание Python 3. Опыт разработки REST API. Понимание асинхронного программирования. Опыт написания запросов на языке SQL. Опыт работы с репликацией...",
+    "salary_from": 100000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-программист (Python backend developer)",
+    "url": "https://hh.ru/vacancy/92609188",
+    "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-программист (Python backend developer)",
+    "url": "https://hh.ru/vacancy/92609189",
+    "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (Support)",
+    "url": "https://hh.ru/vacancy/92547040",
+    "requirement": "Знал Python3.7+ на высоком уровне. Желательно знание новых фич языка. Обязательно знание библиотеки requests и стандартных библиотек. ",
+    "salary_from": 70000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer (Senior)",
+    "url": "https://hh.ru/vacancy/93346579",
+    "requirement": "Навыки, которые необходимы для работы в нашей команде: Отличные знания Python 3. Разнообразный опыт работы с asyncio, aiohttp, FastAPI. ",
+    "salary_from": 360000,
+    "salary_to": 480000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/93142811",
+    "requirement": "Уверенное знание Python. Понимание принципов ООП. Хорошее знание фреймворков Django или Flask. Опыт работы с базами данных (PostgreSQL, MySQL, MongoDB...",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle+/Senior Django Python Developer",
+    "url": "https://hh.ru/vacancy/93543032",
+    "requirement": "Опыт работы на Python не менее 3 лет. Знание принципов веб верстки. Опыт работы с Jinja2 или аналогичными шаблонизаторами. ",
+    "salary_from": 150000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик middle+ Senior",
+    "url": "https://hh.ru/vacancy/93461074",
+    "requirement": "оркестрации программно-определяемых СХД (SDS) и сетей (SDN). - уверенный Python-программист, умение писать хороший код на Python. - умение и готовность...",
+    "salary_from": 250000,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (Кастомизация приложений)",
+    "url": "https://hh.ru/vacancy/93518517",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с желанием мигрировать на Python. ",
+    "salary_from": 175000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend программист Python / Middle Python Backend Developer",
+    "url": "https://hh.ru/vacancy/93238507",
+    "requirement": "HTML. CSS. Умение работать с Docker. Linux CLI. Хорошее понимание принципов шифрования данных. GIT. Соммотивация и инициативность.",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-developer",
+    "url": "https://hh.ru/vacancy/91261236",
+    "requirement": "Мы не работаем под заказ, мы создаем тиражные продукты. Используемый стек технологий: C++, Python, PostgreSQL, Javascript, NodeJS, Redis, ElasticSearch, Clickhouse. ",
+    "salary_from": 100000,
+    "salary_to": 215000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Developer (Senior)",
+    "url": "https://hh.ru/vacancy/92805858",
+    "requirement": "Английский B1+. Опыт работы в качестве Python разработчика от 3 лет. Опыт написания модульных и интеграционных тестов. ",
+    "salary_from": 0,
+    "salary_to": 580000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python backend developer",
+    "url": "https://hh.ru/vacancy/93339796",
+    "requirement": "Опыт коммерческой разработки проектов на языке Python от 3-х лет. Знание актуальных стабильных версии Django / DRF / Flask / FastAPI. ",
+    "salary_from": 150000,
+    "salary_to": 220000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/89565568",
+    "requirement": "Уверенное знание Python 3.11 (основные концепции и низкоуровневые реализации). Опыт использования фреймворков Flask и Django. Опыт асинхронной разработки (asyncio). ",
+    "salary_from": 0,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle/Senior Python Developer (Backend) (Remote/Удаленно)",
+    "url": "https://hh.ru/vacancy/93274534",
+    "requirement": "Навыки работы с Python/Django. Навыки работы с MySQL/Postgres, Redis. Навыки работы с HTML/CSS. Опыт работы с Linux...",
+    "salary_from": 120000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик на Python",
+    "url": "https://hh.ru/vacancy/90310055",
+    "requirement": "опыт использования веб фреймворков, fastapi, orm (sqlalchemy). - умение работать с реляционными базами данных (postgresql), nosql, очередями (rabbitmq), знание базовых конструкций...",
+    "salary_from": 70000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (Middle)",
+    "url": "https://hh.ru/vacancy/92362909",
+    "requirement": "Опыт коммерческой разработки от года. Отличное знание python. Опыт разработки на одном из фреймворков: Django, Fastapi. Умение писать асинхронный код. ",
+    "salary_from": 160000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93345633",
+    "requirement": "Уверенное владение Python 3.8+. Опыт работы с CУБД (MySQL\\Postgres\\Mongo). Опыт работы с Redis. Опыт использования очередей...",
+    "salary_from": 200000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend developer (Python, PHP)",
+    "url": "https://hh.ru/vacancy/92870774",
+    "requirement": "Python разработчика с опытом от 1 года. Высокий уровень самостоятельности. Системное мышление. Аналитическое мышление. Ориентация на результат. Ответственность и лидерство. ",
+    "salary_from": 80000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python (Senior)",
+    "url": "https://hh.ru/vacancy/92571555",
+    "requirement": "Опыт разработки на Python от 5 лет. Знание и коммерческий опыт работы с любым из фреймворков Django/FastAPI/Flask. ",
+    "salary_from": 0,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend разработчик автотестов(Python)",
+    "url": "https://hh.ru/vacancy/91398388",
+    "requirement": "Практический опыт самостоятельного написания автотестов на python от 1 года (опыт прохождения обучения не входит). Опыт работы с библиотеками pytest...",
+    "salary_from": 100000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/92298919",
+    "requirement": "Опыт коммерческой разработки на Python от 3 лет. Уверенное знание Linux. Хорошее знание хотя бы одного из фреймворков - Django, Flask...",
+    "salary_from": 180000,
+    "salary_to": 280000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python backend разработчик Middle+",
+    "url": "https://hh.ru/vacancy/92307003",
+    "requirement": "Писать простой, чистый код. - Читать и понимать чужой код. - Опыт работы Python разработчиком от 2х лет. (прошу новичков не...",
+    "salary_from": 120000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик в г. Сочи (Middle)",
+    "url": "https://hh.ru/vacancy/92311683",
+    "requirement": "Уверенное владение языком программирования Python. Знание классических алгоритмов и структур данных. Опыт создания веб-приложений. Опыт использования и проектирования REST...",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/92841279",
+    "requirement": "Высшее техническое образование (телекоммуникации, IT). Отличное знание Python 3, умение писать типизированный код. Опыт разработки и отладки ПО на языке...",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python/Data Scientist (middle / senior)",
+    "url": "https://hh.ru/vacancy/93326345",
+    "requirement": "Знаешь Python + основные пакеты работы с данными и ML: pandas, numpy, torch, Scikit-learn, matplotlib. Знаешь основы математической статистики. ",
+    "salary_from": 120000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (Django)",
+    "url": "https://hh.ru/vacancy/92691905",
+    "requirement": "Опыт коммерческой разработки на Python от 2 лет. Опыт коммерческой разработки на фреймворке Django. Знание возможностей Python и экосистемы Python...",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python / C# фулстэк-разработчик",
+    "url": "https://hh.ru/vacancy/93326034",
+    "requirement": "Требуется хорошее знание Linux, многопоточности, асинхронности. Плюсом будут базовые знание о VoIP, SIP, bash script, опыт разработки приложения, взаимодействующего с...",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/92701420",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное знание Python 3.8+ и хотя бы одного из веб-фреймворков...",
+    "salary_from": 200000,
+    "salary_to": 260000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Backend Developer (Middle, Remote)",
+    "url": "https://hh.ru/vacancy/92940973",
+    "requirement": "Хорошее знание Python 3.8, Django>2.0, DRF. Опыт работы с реляционными базами данных (MySQL). Умение писать юнит-тесты. ",
+    "salary_from": 0,
+    "salary_to": 195000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer (backend)",
+    "url": "https://hh.ru/vacancy/92602442",
+    "requirement": "Опыт в проектах на Python (3.8-3.10), Django/FastAPI. — Опыт с библиотеками Celery\\Dramatiq. — Также нам важно хорошее...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/91627578",
+    "requirement": "Знание Python или иных скриптовых языков с последующей миграцией на Python. Хорошее знание SQL. Умение и желание писать качественный, поддерживаемый...",
+    "salary_from": 115000,
+    "salary_to": 220000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python разработчик",
+    "url": "https://hh.ru/vacancy/93218101",
+    "requirement": "Имеете более 1 года коммерческой разработки. Умеете структурно мыслить, а также умеете разбивать проект на подзадачи. Работали с другими языками...",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python Разработчик",
+    "url": "https://hh.ru/vacancy/91687560",
+    "requirement": "Самостоятельный, опытный программист. Уверенно владеешь Python\\Flask. Доп. технологии: docker, clickhouse, mysql, redis. Можешь разобраться в чужом коде. ",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (удалённо)",
+    "url": "https://hh.ru/vacancy/92093495",
+    "requirement": "Опыт коммерческой разработки на Python от 3 лет. Опыт коммерческой разработки с FastApi от 2 лет. Опыт работы с микросервисной...",
+    "salary_from": 200000,
+    "salary_to": 280000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист-разработчик Python Flask SQLAlchemy JS Junior Blacksheep",
+    "url": "https://hh.ru/vacancy/92293098",
+    "requirement": "Знание языков Python, js. Понимание FastAPI, Js React, Flask, Rest API, Blacksheep. Знание SQLAlchemy. Ежедневный или еженедельный отчет о проделанной...",
+    "salary_from": 50000,
+    "salary_to": 65000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python/PostgreSQL разработчик",
+    "url": "https://hh.ru/vacancy/93206805",
+    "requirement": "Глубокие знания и интенсивный опыт применения Python3. Понимание принципов ООП, асинхронного программирования. Опыт работы с реляционными базами данных, желательно...",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python Developer / Middle Backend-разработчик",
+    "url": "https://hh.ru/vacancy/90950707",
+    "requirement": "Владение стеком: Python, Djagno, PostgreSQL, DRF, PyTest. Понимание: GraphQL, Rabbitmq, Redis, Celery, Grafana, Docker, S3. Готовность заниматься проектированием (не...",
+    "salary_from": 0,
+    "salary_to": 270000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Software Developer Python",
+    "url": "https://hh.ru/vacancy/92696470",
+    "requirement": "Уверенное владение Python 3 (FastAPI/ Django), знание слабых и сильных сторон. Коммерческий опыт разработки веб-продуктов в команде от 2...",
+    "salary_from": 80000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python/C++",
+    "url": "https://hh.ru/vacancy/93203722",
+    "requirement": "Высшее/незаконченное высшее техническое образование, техникум, профильный колледж (плюсом будут оконченные курсы по программированию). Опыт работы от 1 года, по...",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "url": "https://hh.ru/vacancy/92094795",
+    "requirement": "Мастерское владение Python и готовность использовать Django. Умение работать с микросервисной архитектурой. Понимание принципов работы современных БД. Понимание концепции RESTful...",
+    "salary_from": 0,
+    "salary_to": 450000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/93359831",
+    "requirement": "Высшее образование (техническое). Опыт enterprise/продуктовой разработки. Опыт разработки на Python от 3-х лет. Умение писать чистый, документированный код. ",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/92085569",
+    "requirement": "Опыт промышленного программирования от 3х лет. Уверенные навыки программирования на server-side. Соблюдение первых двух пунктов требований обязательно. ",
+    "salary_from": 100000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python разработчик (Django) в г.Краснодар",
+    "url": "https://hh.ru/vacancy/67115536",
+    "requirement": "Опыт работы с современным стеком и стандартами разработки. Опыт работы в MedTech с соблюдением требований к обработке персональных данных. ",
+    "salary_from": 160000,
+    "salary_to": 240000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python (Middle)",
+    "url": "https://hh.ru/vacancy/87398089",
+    "requirement": "Python > 3.8. FastAPI, SQLAlchemy + alembic + postgres, Pydantic. Docker + Docker Compose. RabbitMQ + dramatiq/pika. Redis. ",
+    "salary_from": 0,
+    "salary_to": 169000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Full Stack разработчик (Python + JavaScript React)",
+    "url": "https://hh.ru/vacancy/92408257",
+    "requirement": "1. Опыт работы в качестве бэкенд разработчика на Python от 3-х лет. 2. Знание js - от 2-х лет. ",
+    "salary_from": 120000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python (Промышленная робототехника)",
+    "url": "https://hh.ru/vacancy/92891536",
+    "requirement": "Высшее техническое/математическое образование. Знание Python, Git. Приветствуется опыт работы с WebGL, OpenGL, физическими движками (Bullet, MuJoCo и др.). ",
+    "salary_from": 0,
+    "salary_to": 160000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/93150645",
+    "requirement": "Хорошее знание Python (3.x), Django и Django REST framework. Знание SQL. Опыт работы с реляционными (Microsoft SQL Server, MySQL...",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python/C++ Developer",
+    "url": "https://hh.ru/vacancy/92675304",
+    "requirement": "От 3 лет коммерческого опыта на Python. Знания C++. Желательно профильное образование.",
+    "salary_from": 0,
+    "salary_to": 450000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик в команду Портала ДИ",
+    "url": "https://hh.ru/vacancy/93292351",
+    "requirement": "Отличные знания и опыт разработки на Python (используем Python 3.6 и 3.7). Опыт работы с фреймворками Django/Flask. ",
+    "salary_from": 360000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python backend developer (middle/senior)",
+    "url": "https://hh.ru/vacancy/92802619",
+    "requirement": "Опыт работы с Python от 3-х лет (FastAPI, Django). Понимание принципов оптимизации сервисов и ORM, умение писать тесты. ",
+    "salary_from": 0,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (ML)",
+    "url": "https://hh.ru/vacancy/92703899",
+    "requirement": "Опытом работы Python Backend разработчиком от 3-ех лет. Базовым пониманием ML и векторных баз данных. Желание активно изучать ML...",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/93150644",
+    "requirement": "Хорошее знание Python (3.x), Django и Django REST framework. Знание SQL. Опыт работы с реляционными (Microsoft SQL Server, MySQL...",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/91397273",
+    "requirement": "Готов работать не по четкому ТЗ, а по бизнес требованиям. Умеет работать в сжатых сроках и отвечать за свой результат. ",
+    "salary_from": 0,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python / Django Developer (Офис)",
+    "url": "https://hh.ru/vacancy/92602581",
+    "requirement": "Знать ООП и структур данных Python, асинхронность, gil, мультипроцессинг / мультитрединг. Уверенно работать с Django, Django REST, FastApi. Знать что такое...",
+    "salary_from": 0,
+    "salary_to": 140000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-developer",
+    "url": "https://hh.ru/vacancy/89957471",
+    "requirement": "Уверенные знания Python, ООП. Опыт работы с PostgreSQL: построение оптимальных sql-запросов (без использования ORM), умение профилировать запросы. ",
+    "salary_from": 150000,
+    "salary_to": 220000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend-разработчик / Разработчик Python",
+    "url": "https://hh.ru/vacancy/87406300",
+    "requirement": "Высшее образование в области математики или информатики (магистр или специалист). Уверенное владение Python (либо альтернативными языками и технологиями). ",
+    "salary_from": 230000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/92337065",
+    "requirement": "Английский B1+. Подтвержденный опыт работы в качестве Python разработчика от 3 лет. Опыт написания модульных и интеграционных тестов. ",
+    "salary_from": 0,
+    "salary_to": 530000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/92281844",
+    "requirement": "От 2-х лет коммерческого опыта, знаешь что такое SOLID, DRY, KISS, интересуешься паттернами проектирования. Знаешь Python 3.8. ",
+    "salary_from": 100000,
+    "salary_to": 120000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python-разработчик (Инженер-программист 2 категории)(01050-1)",
+    "url": "https://hh.ru/vacancy/85608307",
+    "requirement": "Высшее образование специалитет / магистратура (готовы рассмотреть в том числе соискателя-студента магистратуры). Опыт разработки на Django. Опыт проектирования БД. ",
+    "salary_from": 130000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (Middle+/Senior)",
+    "url": "https://hh.ru/vacancy/90880622",
+    "requirement": "Опыт промышленной разработки на python (pytest, многопоточность, CI/CD и др.) от 3 лет. Опыт работы с различными хранилищами данных...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python-разработчик",
+    "url": "https://hh.ru/vacancy/91632057",
+    "requirement": "Опыт коммерческой разработки на Python. Опыт работы с Linux, Bash, SSH. Опыт работы с SQL и NoSQL базами данных. ",
+    "salary_from": 140000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик (Middle)",
+    "url": "https://hh.ru/vacancy/92571564",
+    "requirement": "SQLAlchemy. Django. Flask. Знания Python,Git,ОС Linux,ООП. Понимание основ работы сетей (TCP/IP, HTTP, SSL). Опыт написания высоконагруженных...",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python Developer",
+    "url": "https://hh.ru/vacancy/92292821",
+    "requirement": "Опыт коммерческой разработки на Python, опыт с FastAPI от 3-х лет обязательно. Умение писать эффективный и понятный код, способность...",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/91638823",
+    "requirement": "Знание Python. Понимание принципов MVC в программировании. Опыт работы с популярными фреймворками Python. Знание SQL, JavaScript, CSS, HTML. ",
+    "salary_from": 120000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Бэкенд/Фуллстек-разработчик / Django/Python Back-End / Full-Stack Engineer Bitcoin",
+    "url": "https://hh.ru/vacancy/92227595",
+    "requirement": "Опыт работы с Django/Docker от 3 до 6 лет с определенным опытом работы с фронт-системой. Бакалаврский диплом по...",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer (FastAPI)",
+    "url": "https://hh.ru/vacancy/92884229",
+    "requirement": "Python 3.10. FastAPI. SQLAlchemy. PostgreSQL. Kafka. Kubernetes. GitLab CI/CD. EFK. Умение писать тестируемый поддерживаемый код. Опыт в разработке...",
+    "salary_from": 0,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (backend)",
+    "url": "https://hh.ru/vacancy/91375040",
+    "requirement": "Высшее техническое образование. Знание современного Python 3. Понимание asyncio: Опыт работы с библиотеками/брокерами сообщений (ZeroMQ, RabbitMQ и т.д.). ",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-программист (Python backend developer)",
+    "url": "https://hh.ru/vacancy/92609190",
+    "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Junior Fullstack разработчик (php/python/js)",
+    "url": "https://hh.ru/vacancy/92066990",
+    "requirement": "Знание HTML, CSS на уровне Flexbox. SQL на уровне простых запросов к БД. PHP на уровне запросов к БД, работы...",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/93256959",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с последующей миграцией на Python. ",
+    "salary_from": 132000,
+    "salary_to": 225000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle+/Senior Python Developer (Django)",
+    "url": "https://hh.ru/vacancy/92777434",
+    "requirement": "Обладаете практическим опытом разработки веб-сервисов на Django не менее 4-х лет. Освоили осознанную асинхронность. Имеете высшее образование (желательно...",
+    "salary_from": 180000,
+    "salary_to": 260000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/92400008",
+    "requirement": "Arteus LLM. Опыт работы с Python. Желателен опыт работы с Pandas, NumPy. Использование Pydantic. Опыт работы с базами данных, анализа...",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend Developer Python / Разработчик серверной части",
+    "url": "https://hh.ru/vacancy/93152006",
+    "requirement": "Отличные знания Python (многопоточность, асинхронность, очереди, паттерны, алгоритмы, криптография, ). Опыт реализации высоконагруженных распределенных приложений. Опыт построения инфраструктуры на микросервисной архитектуре. ",
+    "salary_from": 0,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Инженер-программист / Бэкенд-разработчик на Python",
+    "url": "https://hh.ru/vacancy/86548323",
+    "requirement": "Опыт разработки от 2 лет на Python. - Опыт в ОС Linux. - Стек: Flask/FastAPI, SQLAlchemy, Postgres, Redis, Celery. - ",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (в офис) - НАБОР ПРИОСТАНОВЛЕН",
+    "url": "https://hh.ru/vacancy/92583668",
+    "requirement": "Языки программирования: Python, JS. Flask + SQLAlchemy. Платформа: Docker, nginx, gunicorn, PostgreSQL. Опыт разработки на Python от 1,5 лет...",
+    "salary_from": 80000,
+    "salary_to": 100000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend программист Python / Middle Python Backend Developer",
+    "url": "https://hh.ru/vacancy/92653394",
+    "requirement": "Законченное высшее образование в сфере ИТ. Хорошее знание языка программирования Python. Знание SQL (PostgreSQL) на среднем уровне. Навык самостоятельного поиска...",
+    "salary_from": 100000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93205213",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с желанием мигрировать на. Python. ",
+    "salary_from": 175000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/93048944",
+    "requirement": "Опыт разработки на стеке Python (Django/Flask/Fastapi и др.) от 3-х лет. - Углубленное знание SQL и опыт работы...",
+    "salary_from": 250000,
+    "salary_to": 320000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/92281635",
+    "requirement": "Коммерческий опыт разработки на Python от 3 лет и выше. Знание ООП. Умение работать с реляционными СУБД (Oracle, MySQL, PostgreSQL). ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/92538209",
+    "requirement": "Коммерческий опыт разработки от 5 лет. Значительный опыт работы с Python и асинхронным программированием. Опыт разработки микросервисов и понимание принципов...",
+    "salary_from": 220000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-программист (Python backend developer)",
+    "url": "https://hh.ru/vacancy/92609187",
+    "requirement": "Умение планировать свое время, правильно расставлять приоритеты и ответственно подходить к соблюдению сроков решения задач и качеству исполнения. ",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/93240442",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с желанием мигрировать на Python. ",
+    "salary_from": 175000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/92547113",
+    "requirement": "Писать интеграции для внешних сервисов: как правило это или публичное REST API, или фронтенд-API (нужно уметь разобраться в нем...",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93657260",
+    "requirement": "Законченное высшее техническое образование. Опыт разработки с использованием технологий: Опыт разработки торговых систем, тендерных площадок будет преимуществом. Умение разбираться в...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/92601006",
+    "requirement": "Опыт веб-разработки от двух лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. Обязателен опыт работы с django...",
+    "salary_from": 120000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/46229759",
+    "requirement": "Английский язык. Давайте работать вместе!",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/92135217",
+    "requirement": "От Вас: - Коммерческий опыт разработки на Python от 5 лет. - Понимание внутренних механизмов языка Python. - Опыт разработки и проектирования (API...",
+    "salary_from": 300000,
+    "salary_to": 370000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (Django, DRF)",
+    "url": "https://hh.ru/vacancy/88962145",
+    "requirement": "Опыт веб-разработки от одного года, программирования не менее пяти лет. Умение разбираться в чужом коде. Опыт разработки сложных проектов. ",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264940",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python developer (Django/Flask) работа в офисе",
+    "url": "https://hh.ru/vacancy/93089691",
+    "requirement": "Опыт работы с Rest API, Django/Flask/Fastapi). Понимание архитектуры бэкенда для веб-приложений (Node.js, Python). Понимание UX и UI...",
+    "salary_from": 300000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик в R&D отдел",
+    "url": "https://hh.ru/vacancy/72687478",
+    "requirement": "Уверенное знание Python3. Умение использовать ООП. Знание сетевых протоколов разного уровня (TCP, UDP, HTTP, WebSocket, etc) и способов сериализации...",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719597",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/75486835",
+    "requirement": "Опыт разработки на Python от 1 года. Опыт и хорошее знание Django ORM. Опыт работы с DRF не менее 1...",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/92845101",
+    "requirement": "Необходимые навыки: - Опыт работы в качестве Python developer от 2 лет. - Отличное знание языка программирования Python 3.x. - ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93657261",
+    "requirement": "Законченное высшее техническое образование. Опыт разработки с использованием технологий: Опыт разработки торговых систем, тендерных площадок будет преимуществом. Умение разбираться в...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python",
+    "url": "https://hh.ru/vacancy/93657262",
+    "requirement": "Законченное высшее техническое образование. Опыт разработки с использованием технологий: Опыт разработки торговых систем, тендерных площадок будет преимуществом. Умение разбираться в...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python developer",
+    "url": "https://hh.ru/vacancy/93052389",
+    "requirement": "Непрерывный опыт разработки на Python (3.8 и выше) от 3х лет. Умение и готовность работать с чужим кодом. ",
+    "salary_from": 0,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/82143109",
+    "requirement": "Широкий опыт разработки на Python (3.x) от 3 лет. Опыт проектирования высоконагруженных сервисов. Уверенное знание и применение асинхронных фреймворков...",
+    "salary_from": 225000,
+    "salary_to": 280000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer (Middle+/Senior)",
+    "url": "https://hh.ru/vacancy/92701503",
+    "requirement": "Python 3.10. Django 4.3, DRF, Django Channels, Celery. PostgreSQL, Redis. Docker, Docker Compose. Опыт разработки на Python/Django...",
+    "salary_from": 200000,
+    "salary_to": 320000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/91187726",
+    "requirement": "Опыт разработки Python от 3х лет. Опыт работы с Flask. Хорошие знания SQL.",
+    "salary_from": 250000,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer (Middle/Senior)",
+    "url": "https://hh.ru/vacancy/89432427",
+    "requirement": "Python - требуемый опыт работы с реальными проектами от 3-х лет. Опыт написания модульных тестов. Необходим, хотя бы, минимальный опыт...",
+    "salary_from": 250000,
+    "salary_to": 400000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (FastAPI, MySQL, Clickhouse), удаленно",
+    "url": "https://hh.ru/vacancy/92333181",
+    "requirement": "Опыт web-программирования в backend части. - Опыт работы с СУБД postgres. - Опыт промышленной разработки на Python от 4-х лет. - ",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Главный разработчик Python в инфраструктуру CloudBilling (DWH)",
+    "url": "https://hh.ru/vacancy/93513692",
+    "requirement": "От пяти лет занимаетесь промышленной разработкой на Python или Java. Проектировали и разрабатывали распределенные и высоконагруженные сервисы. Имеете богатый опыт...",
+    "salary_from": 450000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Программист Python (Middle)",
+    "url": "https://hh.ru/vacancy/92187784",
+    "requirement": "Работа в аналогичной должности не менее 3 лет. Углубленное знание: Django, Celery, Redis. Знание Git, Elastic, Postgresql, Docker.",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/93150567",
+    "requirement": "Владение языком Python - обязательно. Приветствуется умение работать с: PostgreSQL, Google DevTools, Docker Swarm, GitLab, Green Plum и Linux. ",
+    "salary_from": 164000,
+    "salary_to": 164000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/92098438",
+    "requirement": "",
+    "salary_from": 0,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python backend-разработчик в видеоаналитике",
+    "url": "https://hh.ru/vacancy/90988048",
+    "requirement": "Знание фреймворков Django, FastAPI, Celery, Python > 3.10, Redis, PostgreSQL, Prometheus, Sentry, Docker, K8S, pytest, SQLAlchemy. ",
+    "salary_from": 0,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик на Python",
+    "url": "https://hh.ru/vacancy/93162695",
+    "requirement": "Имеете опыт работы в разработке серверных приложений на Python от 3 лет. Имеете опыт разработки микросервисов, REST API на базе...",
+    "salary_from": 0,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/91255770",
+    "requirement": "Опыт коммерческой разработки от 2-х лет. Уверенное программирование на Python или других скриптовых языках с последующей миграцией на Python. ",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик систем сбора",
+    "url": "https://hh.ru/vacancy/72687495",
+    "requirement": "Уверенное знание Python3. Опыт разработки систем сбора. Опыт многопоточной и асинхронной разработки (threading, asyncio), знание примитивов синхронизации, умение масштабировать...",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python-разработчик",
+    "url": "https://hh.ru/vacancy/91638871",
+    "requirement": "Знание Python. Понимание принципов MVC в программировании. Опыт работы с популярными фреймворками Python. Знание SQL, JavaScript, CSS, HTML. ",
+    "salary_from": 120000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/92914895",
+    "requirement": "You have 5+ years of experience as a backend engineer (Python). Not less than 2 years of development in...",
+    "salary_from": 320000,
+    "salary_to": 400000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Системный программист / разработчик Python",
+    "url": "https://hh.ru/vacancy/92323149",
+    "requirement": "Опыт работы c ОС Linux. Опыт программирования на любых скриптовых языках. Знание сетевых протоколов. Знание Python 3.6+, веб...",
+    "salary_from": 200000,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python developer на проект InfraCloud",
+    "url": "https://hh.ru/vacancy/93292562",
+    "requirement": "Отличные знания и опыт разработки на Python (используем Python 3.6 и 3.7). Опыт работы с фреймворками Django/Flask. ",
+    "salary_from": 380000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (middle)",
+    "url": "https://hh.ru/vacancy/92758137",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с желанием мигрировать на. Python. ",
+    "salary_from": 175000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python разработчик",
+    "url": "https://hh.ru/vacancy/90777043",
+    "requirement": "Опыт коммерческой разработки на Python от 2 лет. Опыт работы с асинхронностью, multithreading. Опыт веб-разработки с использованием Django. ",
+    "salary_from": 240000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle \\ Senior разработчик Python Backend",
+    "url": "https://hh.ru/vacancy/84081902",
+    "requirement": "Высшее образование (профильное). Опыт разработки промышленных или коммерческих информационных систем на Python от 2-х лет. Знание SQL и практические...",
+    "salary_from": 0,
+    "salary_to": 150000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer (IoT, platform development)",
+    "url": "https://hh.ru/vacancy/92369910",
+    "requirement": "Опыт коммерческой разработки на Python, Django. Опыт платформенной разработки или готовность работать с подобными задачами. Опыт работы с PostgreSQL или...",
+    "salary_from": 300000,
+    "salary_to": 400000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719589",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (middle)",
+    "url": "https://hh.ru/vacancy/85645895",
+    "requirement": "Высшее образование. Хорошее знание Python 3. Знание Linux (основные системные утилиты, работа в командной строке). Разработка stateless-сервисов на основе...",
+    "salary_from": 130000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719586",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719575",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior / Team Lead Python разработчик",
+    "url": "https://hh.ru/vacancy/93592453",
+    "requirement": "Опыт разработки на Python или Rust не менее 5 лет. Опыт управления командой разработчиков. Глубокие знания архитектуры программного обеспечения и...",
+    "salary_from": 200000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Ведущий разработчик Python (FastAPI)",
+    "url": "https://hh.ru/vacancy/90633020",
+    "requirement": "Опыт коммерческой разработки на FastAPI - от 2-х лет, на Python от 3 лет. Знание Pydantic, Asyncio и SQLAlchemy 2. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/92483943",
+    "requirement": "Стек технологий: Знание Python на уровне middle+ / senior. Опыт работы с фреймворком Flask. Опыт работы с Docker. Заинтересованность в ИИ. ",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337365",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719593",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337366",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264936",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python developer",
+    "url": "https://hh.ru/vacancy/91255760",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с последующей миграцией на Python. ",
+    "salary_from": 132000,
+    "salary_to": 225000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик (удалённо)",
+    "url": "https://hh.ru/vacancy/84888866",
+    "requirement": "Опыт коммерческой разработки на Python от 2 лет. Опыт коммерческой разработки с FastApi. Опыт работы с микросервисной архитектурой. ",
+    "salary_from": 200000,
+    "salary_to": 280000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python",
+    "url": "https://hh.ru/vacancy/92098437",
+    "requirement": "",
+    "salary_from": 0,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337387",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Lead Python Developer",
+    "url": "https://hh.ru/vacancy/88837423",
+    "requirement": "СТРОГО уверенное знание python3 и нескольких других языков (JS, желательно С, C++, Go). Опыт управления командой разработчиков и взаимодействия...",
+    "salary_from": 0,
+    "salary_to": 400000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Frontend разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90776928",
+    "requirement": "Знание JavaScript, HTML, CSS. Опыт использования одного из фреймворков: React / Vue / Svelte от 1 года. Опыт работы на Python. ",
+    "salary_from": 0,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/92467991",
+    "requirement": "Опыт разработки от 5 лет. Опыт разработки Backend на Python. Знание ООП. Хорошее знание SQL и БД (Postgres). ",
+    "salary_from": 250000,
+    "salary_to": 300000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719598",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337369",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/80803272",
+    "requirement": "Имеет знания python, паттернов проектирования на микросервисной архитектуре, SQL, Unix/Linux, Docker. Имеет опыт написания тестов (pytest). Будет плюсом: Знание...",
+    "salary_from": 350000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337384",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle/Senior Python ML-разработчик (нейросети)",
+    "url": "https://hh.ru/vacancy/93238942",
+    "requirement": "Опыт с Python 3 от 3 лет (основные концепции и низкоуровневые реализации) и основными ML-библиотеками (pandas, scikit-learn, catboost...",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python разработчик (удаленно)",
+    "url": "https://hh.ru/vacancy/92195261",
+    "requirement": "Опыт коммерческой разработки на Python от 6-ти лет. Опыт разработки REST API на каком-либо из мини-фреймворков (Flask...",
+    "salary_from": 0,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/91946361",
+    "requirement": "Опыт разработки под ОС Linux - сильная системщина по теме всего в линуксе. Знание сетей на уровне администирования - Практика и навыки...",
+    "salary_from": 300000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик С++ / Python (middle +)",
+    "url": "https://hh.ru/vacancy/87687886",
+    "requirement": "Опыт разработки на С++ 14/17/20: - Знание основных особенностей стандартов, С++11, С++14, С++17. - знание библиотек STL...",
+    "salary_from": 100000,
+    "salary_to": 180000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Backend Developer (Python,Go)",
+    "url": "https://hh.ru/vacancy/92704482",
+    "requirement": "Уверенно владеешь Python (3+ лет). -Имеешь опыт разработки на Go (2+ года). -Сталкивался с GCP. -Работал с PostgreSQL. -",
+    "salary_from": 360000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python backend developer (Middle)",
+    "url": "https://hh.ru/vacancy/92277744",
+    "requirement": "Опыт бэкенд разработки на Python, опыт с Django в частности от 2 лет. Опыт работы с реляционными БД и написания...",
+    "salary_from": 0,
+    "salary_to": 240000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719584",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719590",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python (Middle+/Senior)",
+    "url": "https://hh.ru/vacancy/90604662",
+    "requirement": "Python (Python 3.7 и выше): SqlAlchemy, Django, Flask, FastAPI. - REST, Swagger. Уверенное владение Python3 от 3 лет, знание...",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior backend developer - Python (Remote)",
+    "url": "https://hh.ru/vacancy/92937527",
+    "requirement": "5+ years of experience as Python Developer. Experience in designing and developing scalable backends and REST APIs. ",
+    "salary_from": 280000,
+    "salary_to": 320000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719585",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer / Senior Backend-разработчик",
+    "url": "https://hh.ru/vacancy/92066478",
+    "requirement": "Владение стеком: Python, Djagno, PostgreSQL, DRF, PyTest. Понимание: GraphQL, Rabbitmq, Redis, Celery, Grafana, Docker, S3. Готовность заниматься проектированием (не...",
+    "salary_from": 0,
+    "salary_to": 350000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python-developer",
+    "url": "https://hh.ru/vacancy/93083481",
+    "requirement": "Опыт коммерческой разработки от 3-х лет. Уверенное программирование на Python или других скриптовых языках с последующей миграцией на Python. ",
+    "salary_from": 270000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719587",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend разработчик Middle +, Senior (Python)",
+    "url": "https://hh.ru/vacancy/88113057",
+    "requirement": "Отличное знание и применение ООП. Опыт разработки от 3 лет. Стек: Python, MongoDB, ClickHouse, FastAPI, PosgreSQL, Kafka, Docker, Go KrakenD. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264930",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/92212842",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264924",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Python developer",
+    "url": "https://hh.ru/vacancy/72687504",
+    "requirement": "Уверенное знание Python3 (asyncio, typing, threading). Опыт использования сoncurrent computing, применения примитивов синхронизации. Умения использования парадигмы ООП и шаблонов...",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python developer (InfoSec)",
+    "url": "https://hh.ru/vacancy/92141120",
+    "requirement": "Отличное знание Python и его стандартной библиотеки. Увлечение InfoSec или опыт работы в данной сфере. Хорошее понимание работы сетевого стека. ",
+    "salary_from": 230000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337374",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle+/Senior python developer",
+    "url": "https://hh.ru/vacancy/92542099",
+    "requirement": "Имеете опыт работы с реляционными базами данных. Умеете писать надежный код, исследовать сложные проблемы, работать в команде.",
+    "salary_from": 300000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle / Senior Python/Go developer",
+    "url": "https://hh.ru/vacancy/30548119",
+    "requirement": "Английский язык. Давайте работать вместе!",
+    "salary_from": 80000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Fullstack (Python / JS) Developer",
+    "url": "https://hh.ru/vacancy/92099585",
+    "requirement": "Высшее техническое образование. Опыт работы Разработчиком / Программистом в телекоммуникационных компаниях, в IT-компаниях от 2-х лет. Владение языками программирования...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Backend Python developer (senior/middle+)",
+    "url": "https://hh.ru/vacancy/89136806",
+    "requirement": "Имеешь опыт коммерческой разработки на python 3 от 3-х лет. Разрабатывал телеграм-боты с помощью Telethon, Pyrogram или другой...",
+    "salary_from": 150000,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337381",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/92394185",
+    "requirement": "Обязательно: Python 3.6+ не менее 3-ех лет. Flask. Работа в Linux. Понимание контейнеризации. Желательно: Опыт работы в...",
+    "salary_from": 150000,
+    "salary_to": 220000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337377",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337379",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264941",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Ведущий инженер-программист Python (MIDDLE)",
+    "url": "https://hh.ru/vacancy/91783778",
+    "requirement": "Уверенное знание Python, Linux. Разработка под Linux, разработка интерфейсов Linux/Windows. Fast API. SQL. Клиент-серверная архитектура. Опыт работы с...",
+    "salary_from": 150000,
+    "salary_to": 200000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337385",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python-разработчик",
+    "url": "https://hh.ru/vacancy/93301886",
+    "requirement": "Мастерское владение Python и готовность использовать Django. Умение работать с микросервисной архитектурой. Понимание принципов работы современных БД. Понимание концепции RESTful...",
+    "salary_from": 0,
+    "salary_to": 450000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337378",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719596",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Python разработчик",
+    "url": "https://hh.ru/vacancy/92478871",
+    "requirement": "Опыт коммерческой разработки на Python от 2 лет. Владение хотя бы одним из фреймворков: AioHttp, Sanic, FastApi, Starlette, Django, Flask...",
+    "salary_from": 180000,
+    "salary_to": 230000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264933",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264935",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Разработчик Python senior Java (Android)",
+    "url": "https://hh.ru/vacancy/91415316",
+    "requirement": "Знание языков программирования: Java, Python. Опыт разработки мобильных приложений для android. Навыки решать задачи связанные с. Обменами (TCP/IP, AMQP...",
+    "salary_from": 0,
+    "salary_to": 500000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337367",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264938",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719578",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264937",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python developer",
+    "url": "https://hh.ru/vacancy/86531354",
+    "requirement": "Давайте работать вместе!",
+    "salary_from": 0,
+    "salary_to": 250000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264943",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264942",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Back-end Developer (Senior Python Developer)",
+    "url": "https://hh.ru/vacancy/92873234",
+    "requirement": "Глубокие знания Python и опыт работы с фреймворками для веб-разработки. Опыт работы с Langchain и большими языковыми моделями. ",
+    "salary_from": 0,
+    "salary_to": 344828,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264929",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/90337370",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264934",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264932",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior Python Developer",
+    "url": "https://hh.ru/vacancy/93057768",
+    "requirement": "Опыт написания production кода на Python от 3-х лет. Базовые знания алгоритмов, структур данных, паттернов проектирования и программирования, навыки...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719595",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Senior backend developer - Python (Remote)",
+    "url": "https://hh.ru/vacancy/92937525",
+    "requirement": "5+ years of experience as Python Developer. Experience in designing and developing scalable backends and REST APIs. ",
+    "salary_from": 280000,
+    "salary_to": 320000,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Ведущий инженер-программист / Бэкенд-разработчик на Python",
+    "url": "https://hh.ru/vacancy/86548580",
+    "requirement": "Опыт разработки от 5 лет на Python. - Опыт в ОС Linux. - Стек: Flask/FastAPI, SQLAlchemy, Postgres, Redis, Celery. - ",
+    "salary_from": 90000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/89719576",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264925",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Lead Backend-разработчик / Backend Developer (Python)",
+    "url": "https://hh.ru/vacancy/92364355",
+    "requirement": "Опыт разработки веб-приложений на Python от 3 лет. Опыт работы с микросервисной архитектурой. Опыт работы с базами данных (MySQL...",
+    "salary_from": 250000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264928",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/92212523",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264939",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264927",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  },
+  {
+    "name": "Middle Backend-разработчик (Python)",
+    "url": "https://hh.ru/vacancy/91264926",
+    "requirement": "Хорошие знания Python 3.*. Опыт работы с Django/Sanic/Tornado/FastApi. Опыт работы с Asyncio. Опыт работы с Websocket. ",
+    "salary_from": 200000,
+    "salary_to": 0,
+    "service_name": "HeadHunter"
+  }
+]
